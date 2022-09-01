@@ -1,4 +1,4 @@
-# ahletica
+# athletica
 
 Learn the Command Line - Codecademy Project
 
